@@ -1,3 +1,9 @@
+# View
+
+<img width="400" alt="page1" src="img/１.png">
+<img width="400" alt="page3" src="img/３.png">
+
+
 # Cakes Co
 Megan
 The aim of this exercise is to create a **responsive webpage** showcasing your cake business.
